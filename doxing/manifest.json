@@ -1,6 +1,6 @@
 {
-  "short_name": "Privacy Insight",
-  "name": "dig into your privacy",
+  "short_name": "让我看看是哪个程序猿暴露了",
+  "name": "doxing",
   "icons": [
     {
       "src": "favicon.ico",
